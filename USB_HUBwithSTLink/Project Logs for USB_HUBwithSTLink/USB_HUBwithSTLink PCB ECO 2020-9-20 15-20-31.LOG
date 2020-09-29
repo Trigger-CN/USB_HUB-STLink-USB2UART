@@ -1,0 +1,6 @@
+Added Component: Designator=U2(Œ»—π–æ∆¨_SOT-223)
+Added Pin To Net: NetName=DGND Pin=U2-1
+Added Pin To Net: NetName=3V3 Pin=U2-2
+Added Pin To Net: NetName=3V3 Pin=U2-2
+Added Pin To Net: NetName=5V Pin=U2-3
+Added Member To Class: ClassName=STlink Member=Component U2 AMS1117

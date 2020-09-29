@@ -1,0 +1,16 @@
+Added Component: Designator=L1(变压器电感_L0603)
+Added Component: Designator=L3(变压器电感_L0603)
+Added Component: Designator=L4(变压器电感_L0603)
+Added Component: Designator=L5(变压器电感_L0603)
+Added Pin To Net: NetName=VDP Pin=L1-1
+Added Pin To Net: NetName=VIN Pin=L1-2
+Added Pin To Net: NetName=VDP Pin=L3-1
+Added Pin To Net: NetName=NetC22_2 Pin=L3-2
+Added Pin To Net: NetName=VDP Pin=L4-1
+Added Pin To Net: NetName=NetC27_2 Pin=L4-2
+Added Pin To Net: NetName=VCC Pin=L5-1
+Added Pin To Net: NetName=NetL5_2 Pin=L5-2
+Added Member To Class: ClassName=USB_HUB Member=Component L1 0R800mA
+Added Member To Class: ClassName=USB_HUB Member=Component L3 0R800mA
+Added Member To Class: ClassName=USB_HUB Member=Component L4 0R800mA
+Added Member To Class: ClassName=USB_HUB Member=Component L5 0R2A

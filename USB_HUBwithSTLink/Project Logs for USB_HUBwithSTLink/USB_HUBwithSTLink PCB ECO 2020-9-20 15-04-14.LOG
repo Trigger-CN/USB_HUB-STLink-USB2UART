@@ -1,0 +1,52 @@
+Added Component: Designator=C11(电容_C0603)
+Added Component: Designator=C12(电容_C0603)
+Added Component: Designator=C13(电容_C0603)
+Added Component: Designator=C14(电容_C0603)
+Added Component: Designator=C15(电容_C0603)
+Added Component: Designator=C16(电容_C0603)
+Added Component: Designator=C17(电容_C0603)
+Added Component: Designator=C18(电容_C0603)
+Added Component: Designator=C22(电容_C0603)
+Added Component: Designator=C23(电容_C0603)
+Added Component: Designator=C24(电容_C0603)
+Added Component: Designator=C25(电容_C0603)
+Added Component: Designator=C27(电容_C0603)
+Added Pin To Net: NetName=DGND Pin=C11-1
+Added Pin To Net: NetName=VIN Pin=C11-2
+Added Pin To Net: NetName=DGND Pin=C12-1
+Added Pin To Net: NetName=DVDD Pin=C12-2
+Added Pin To Net: NetName=DGND Pin=C13-1
+Added Pin To Net: NetName=AVDD Pin=C13-2
+Added Pin To Net: NetName=DGND Pin=C14-1
+Added Pin To Net: NetName=AVDD Pin=C14-2
+Added Pin To Net: NetName=DGND Pin=C15-1
+Added Pin To Net: NetName=AVDD Pin=C15-2
+Added Pin To Net: NetName=DGND Pin=C16-1
+Added Pin To Net: NetName=AVDD Pin=C16-2
+Added Pin To Net: NetName=DGND Pin=C17-1
+Added Pin To Net: NetName=AVDD Pin=C17-2
+Added Pin To Net: NetName=DGND Pin=C18-1
+Added Pin To Net: NetName=DVDD Pin=C18-2
+Added Pin To Net: NetName=DGND Pin=C22-1
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=DGND Pin=C23-1
+Added Pin To Net: NetName=RES Pin=C23-2
+Added Pin To Net: NetName=DGND Pin=C24-1
+Added Pin To Net: NetName=X1 Pin=C24-2
+Added Pin To Net: NetName=DGND Pin=C25-1
+Added Pin To Net: NetName=X2 Pin=C25-2
+Added Pin To Net: NetName=DGND Pin=C27-1
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Member To Class: ClassName=USB_HUB Member=Component C11 104
+Added Member To Class: ClassName=USB_HUB Member=Component C12 20PF
+Added Member To Class: ClassName=USB_HUB Member=Component C13 20PF
+Added Member To Class: ClassName=USB_HUB Member=Component C14 20PF
+Added Member To Class: ClassName=USB_HUB Member=Component C15 20PF
+Added Member To Class: ClassName=USB_HUB Member=Component C16 20PF
+Added Member To Class: ClassName=USB_HUB Member=Component C17 20PF
+Added Member To Class: ClassName=USB_HUB Member=Component C18 104
+Added Member To Class: ClassName=USB_HUB Member=Component C22 104
+Added Member To Class: ClassName=USB_HUB Member=Component C23 104
+Added Member To Class: ClassName=USB_HUB Member=Component C24 20PF
+Added Member To Class: ClassName=USB_HUB Member=Component C25 20PF
+Added Member To Class: ClassName=USB_HUB Member=Component C27 104
